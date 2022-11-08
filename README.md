@@ -4,7 +4,7 @@
 
 Laravel-Vue-QA is an application for creating, editing, and deleting questions and answers for them and allows the question owner to select the best answer and contains a voting system that allows all users for voting on all answers, and this application is integrated with Vue framework, this application simulates StackOverflow web site.
 
-##Screenshots
+## Screenshots
 
 ![Laravel-QA-Vue](https://user-images.githubusercontent.com/109177230/200648922-916ebee8-012d-4714-b88b-ecf8b960054e.png)
 ![Laravel-QA-Vue2](https://user-images.githubusercontent.com/109177230/200648946-05ebae27-4207-43aa-93e6-276646ba2224.png)
