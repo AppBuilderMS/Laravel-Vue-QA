@@ -9,7 +9,7 @@ Laravel-Vue-QA is an application for creating, editing, and deleting questions a
 ![Laravel-QA-Vue4](https://user-images.githubusercontent.com/109177230/200648967-cd4a3c1f-404e-4dcd-a3e2-69a9bf5c70e7.png)
 ![Laravel-QA-Vue3](https://user-images.githubusercontent.com/109177230/200648958-dcc74b68-67a6-4b44-aaa5-144582c313cd.png)
 
-- For more screenshots [here](screenshots).
+- For more screenshots [here](screenshots/SCREENSHOTS.md).
 
 
 
